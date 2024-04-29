@@ -1,16 +1,27 @@
-### Hi there 👋
+# Sarah Dautricourt, pour vous servir !😋
 
-<!--
-**SarahDautricourt/SarahDautricourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mes compétences
 
-Here are some ideas to get you started:
+- HTML [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" height="30">](https://fr.wikipedia.org/wiki/Hypertext_Markup_Language)
+- CSS [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" height="30">](https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade)
+- Actuellement en cours d'apprentissage ! 💪
+- Apprentissage en cours : création et développement d'algorithme 🛠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mon parcours
+
+Actuellement à la recherche d'une alternance, je vous laisse découvrir un jeu qui retrace mon histoire :
+
+
+> ### L'Épopée de Sarah et Shiro : À la Conquête du Bug Égaré
+> 
+> Dans un monde numérique où les énigmes attendent d'être résolues, Sarah, une jeune passionnée de jeux vidéo, s'allie à son chat observateur, Shiro, pour se lancer dans une quête épique : retrouver le légendaire "Bug Égaré".
+> 
+> Découragée par son travail dénué de passion, Sarah s'embarque dans cette quête pour réaliser son rêve de reconversion dans le développement web et perfectionner ses compétences en test logiciel.
+> 
+> Guidée par sa passion pour la lecture et la musique, sources d'inspiration et de réconfort, elle découvre un univers fascinant où chaque ligne de code est une note de sa propre symphonie.
+> 
+> Accompagnée de Shiro, son fidèle compagnon félin, elle met à l'épreuve son sens de l'écoute et de la persévérance.
+> 
+> Au cours de leur périple, ils apprennent que chaque défi, aussi difficile soit-il, peut être surmonté avec collaboration et ingéniosité.
+> 
+> Plongez dans un univers numérique où chaque bug est une occasion d'apprendre et de grandir !
