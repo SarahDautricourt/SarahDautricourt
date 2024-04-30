@@ -12,9 +12,9 @@
 Actuellement à la recherche d'une alternance, je vous laisse découvrir un jeu qui retrace mon histoire :
 
 
-> ### L'Épopée de Sarah et Shiro : À la Conquête du Bug Égaré
+> ### L'épopée de Sarah et Shiro : à la conquête du bug égaré
 > 
-> Dans un monde numérique où les énigmes attendent d'être résolues, Sarah, une jeune passionnée de jeux vidéo, s'allie à son chat observateur, Shiro, pour se lancer dans une quête épique : retrouver le légendaire "Bug Égaré".
+> Dans un monde numérique où les énigmes attendent d'être résolues, Sarah, une jeune passionnée de jeux vidéo, s'allie à son chat observateur, Shiro, pour se lancer dans une quête épique : retrouver le légendaire "bug égaré".
 > 
 > Découragée par son travail dénué de passion, Sarah s'embarque dans cette quête pour réaliser son rêve de reconversion dans le développement web et perfectionner ses compétences en test logiciel.
 > 
@@ -25,3 +25,5 @@ Actuellement à la recherche d'une alternance, je vous laisse découvrir un jeu 
 > Au cours de leur périple, ils apprennent que chaque défi, aussi difficile soit-il, peut être surmonté avec collaboration et ingéniosité.
 > 
 > Plongez dans un univers numérique où chaque bug est une occasion d'apprendre et de grandir !
+
+![L'épopée de Sarah et Shiro](./lepopee_de_sarah_et_shiro_à_la_conquete_du_bug_egaree.png)
