@@ -2,11 +2,9 @@
 
 😉 Je suis actuellement en recherche d'alternance afin d'obtenir un diplôme en développement informatique
 
-💪 J'adore apprendre et découvrir de nouvelle chose, et quoi de mieux que le développement web pour ça !
+💪 J'adore apprendre et découvrir de nouvelles choses, et quoi de mieux que le développement web pour ça !
 
 🎮 J'aime les jeux vidéos, la lecture, la musique, et mon chat, Shiro !
-
----
 
 ## Mes compétences
 
@@ -15,8 +13,6 @@
 - Développement d'algorithmes
 ### 📚 Actuellement en cours d'apprentissage : 
 - JavaScript [<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" height="20">](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-
----
 
 ## Mon parcours
 
